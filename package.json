@@ -4,7 +4,10 @@
   "description": "A web application that allows you to search Tv series titles.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "author": "Atlan Talebi",
   "license": "ISC",
