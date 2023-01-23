@@ -1,0 +1,17 @@
+{
+  "name": "tv-series-search",
+  "version": "1.0.0",
+  "description": "A web application that allows you to search Tv series titles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atlan Talebi",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-next": "^13.1.4",
+    "next": "^13.1.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
