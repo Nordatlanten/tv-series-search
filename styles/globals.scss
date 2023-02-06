@@ -1,0 +1,16 @@
+  * {
+  box-sizing: border-box;
+}
+
+body {
+    font-family: 'Helvetica', sans-serif;
+    padding: 20px 20px 60px;
+    max-width: 1310px;
+    margin: 0 auto;
+    background-color: #1C1C1C;
+
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
